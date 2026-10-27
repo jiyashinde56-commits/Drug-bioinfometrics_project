@@ -1,0 +1,20 @@
+
+# Molecular analysis and cheminformatics
+rdkit
+
+# Numerical computing
+numpy
+scipy
+
+# Data processing and analysis
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Bioinformatics and biological sequences
+biopython
